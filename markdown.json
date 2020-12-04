@@ -1,0 +1,13 @@
+{
+  "title": "Markdown basics",
+  "description": "A set of basic Markdown courses.",
+  "icon": "fa-katacoda",
+  "courses":
+  [
+    {
+      "course_id": "markdown-basics",
+      "title": "Scenario with Markdown basics",
+      "description": "Katacoda Scenario for Markdown basics"
+    }
+  ]
+}
